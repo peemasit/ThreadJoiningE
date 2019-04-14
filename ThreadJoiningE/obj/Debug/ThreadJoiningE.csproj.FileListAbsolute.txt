@@ -1,0 +1,7 @@
+C:\Users\peema\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\ThreadJoiningE.exe.config
+C:\Users\peema\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\ThreadJoiningE.exe
+C:\Users\peema\source\repos\ThreadJoiningE\ThreadJoiningE\bin\Debug\ThreadJoiningE.pdb
+C:\Users\peema\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\ThreadJoiningE.csprojAssemblyReference.cache
+C:\Users\peema\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\ThreadJoiningE.csproj.CoreCompileInputs.cache
+C:\Users\peema\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\ThreadJoiningE.exe
+C:\Users\peema\source\repos\ThreadJoiningE\ThreadJoiningE\obj\Debug\ThreadJoiningE.pdb
